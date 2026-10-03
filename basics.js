@@ -24,3 +24,5 @@ $200 from your job. calculate how much money you have.*/
 let money= (100-20-50) + 200;
 console.log(money);
 
+//trying to add code issues.
+lesson 2 maths
