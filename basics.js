@@ -43,3 +43,6 @@ calculate how much each person pays.*/
 
 /*calculate a 20% tax for the total in 2c remember that 1%= 1/100, so, 20%=20/100= 0.2)*/
 (math.round(18.50) + math.round(7.5)*2 ) * 0.2
+ 
+hello world!
+hello world!
