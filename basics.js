@@ -59,5 +59,13 @@ search for the code to do this.*/
 
 /* lets always round a number up (2.2=>3). search how to do this! */
 
- hello
- HELLOOO
+
+/*challenge exercises:
+we'll use javascript to convert temperature from celsius (0°C) to fahrenheit (°F). the formula is: (celsius * 9/5) + 32 
+celsius =(fahrenheit-32)*5/9
+*/
+
+/*The temperature is 25°C. use the formula to convert it to °F and display the result in the console.
+//the temperature is 86 f. calculate the temperature in celsius.
+
+//the temperature is -5c. calculate the temperature in fahrenheit. 
