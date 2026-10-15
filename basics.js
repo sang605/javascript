@@ -44,21 +44,20 @@ calculate how much each person pays.*/
 /*calculate a 20% tax for the total in 2c remember that 1%= 1/100, so, 20%=20/100= 0.2)*/
 (math.round(18.50) + math.round(7.5)*2 ) * 0.2
  
-hello world!
-hello world!
+/*calculate the cost of the products (before shipping and taxes)
+hint: calculate in cents to avoid inaccuracies. */
 
-hii
-hii
-hii
-hiii
-hiii
- hello hello hello
- hello hello hello
- hii
- hii
- hii
- hii
- hello im adding new things here
- hiiii
+/*calculate the total before tax.*/
+
+/*calculate the 10% tax exactly. Hint: use the math.round()
+*/
+
+//calculate order total at the bottom.
+
+/*lets say we want to always round a number down (2.8=>2) using google or A.I tool
+search for the code to do this.*/
+
+/* lets always round a number up (2.2=>3). search how to do this! */
+
  hello
  HELLOOO
